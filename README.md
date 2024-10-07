@@ -1,9 +1,6 @@
-Here’s your requested README content:
-
----
 
 # Paytm Clone
-
+---
 This is a responsive clone of the Paytm website built using HTML and TailwindCSS. The goal of this project is to replicate the look and feel of Paytm's homepage with modern web development practices and responsive design techniques.
 
 ## Features
@@ -19,4 +16,3 @@ This is a responsive clone of the Paytm website built using HTML and TailwindCSS
 
 ---
 
-This provides a clear and concise summary of the project!
